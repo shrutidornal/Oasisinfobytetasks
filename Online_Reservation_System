@@ -1,4 +1,4 @@
-ackage OasisInfobyte;
+Package OasisInfobyte;
 import java.util.Scanner;
 public class Online_Reservation_System {
 	private static boolean[] seats = new boolean[10]; // initialize an array of 10 seats, all empty
